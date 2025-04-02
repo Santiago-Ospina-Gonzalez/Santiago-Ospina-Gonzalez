@@ -9,15 +9,21 @@ Soy estudiante de 3er año de Ingeniería de Sistemas en Colombia. Me apasiona l
 - **Python**
 - **C++**
 
+## 📊 Lenguajes Más Utilizados
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Ospina-Gonzalez&layout=compact)](https://github.com/Santiago-Ospina-Gonzalez/github-readme-stats)
+
 ## 🚀 Proyectos Destacados
 - [Proyecto](https://github.com/Santiago-Ospina-Gonzalez/proyecto) - Descripción breve del proyecto.
 - [Microservicio](https://github.com/Santiago-Ospina-Gonzalez/microservicioCurso) - Descripción breve del microservicio.
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiago-Ospina-Gonzalez&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiago-Ospina-Gonzalez&show_icons=true&theme=radical&count_private=true)
 
 ## 📫 Conéctame en Redes Sociales
 [![Instagram](https://img.shields.io/badge/Instagram-santio_glz-orange?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/santio_glz)
+
+## 📧 Contactar
+Si deseas contactarme, puedes enviarme un correo a: [santyospina155@gmail.com](mailto:santyospina155@gmail.com)
 
 ## 🔥 Contador de Visitas
 ![Contador de Visitas](https://visitor-badge.glitch.me/badge?page_id=Santiago-Ospina-Gonzalez)
