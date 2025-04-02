@@ -1,6 +1,6 @@
-# ¡Hola! Soy Santiago Ospina 👋
+<div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia" width="200"/>
+# ¡Hola! Soy Santiago Ospina 👋 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia" width="30"/>
 
 Soy estudiante de 3er año de Ingeniería de Sistemas en Colombia. Me apasiona la programación y disfruto trabajando con diferentes lenguajes.
 
@@ -17,7 +17,7 @@ Soy estudiante de 3er año de Ingeniería de Sistemas en Colombia. Me apasiona l
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiago-Ospina-Gonzalez&show_icons=true&theme=radical)
 
 ## 📫 Conéctame en Redes Sociales
-- [Instagram](https://www.instagram.com/santio_glz)
+[![Instagram](https://img.shields.io/badge/Instagram-santio_glz-orange?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/santio_glz)
 
 ## 🔥 Contador de Visitas
 ![Contador de Visitas](https://visitor-badge.glitch.me/badge?page_id=Santiago-Ospina-Gonzalez)
@@ -36,3 +36,5 @@ Soy estudiante de 3er año de Ingeniería de Sistemas en Colombia. Me apasiona l
 Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme.
 
 ![GIF de programación](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
+
+</div>
