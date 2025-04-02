@@ -41,6 +41,6 @@ Si deseas contactarme, puedes enviarme un correo a: [santyospina155@gmail.com](m
 ## 🎉 ¡Gracias por visitar mi perfil! 🎉
 Si tienes alguna pregunta o quieres colaborar, no dudes en contactarme.
 
-![GIF de programación](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
+![GIF de programación](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RsMTJhZXdhN2hvY2w0dmZramJnZ2dqd2RnZWR1Ymo1OWd6ZHRmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OjCd84QkgGuoWlyJRR/giphy.gif)
 
 </div>
