@@ -13,8 +13,8 @@ Soy estudiante de 3er año de Ingeniería de Sistemas en Colombia. Me apasiona l
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Ospina-Gonzalez&layout=compact)](https://github.com/Santiago-Ospina-Gonzalez/github-readme-stats)
 
 ## 🚀 Proyectos Destacados
-- [Proyecto](https://github.com/Santiago-Ospina-Gonzalez/proyecto) - Descripción breve del proyecto.
-- [Microservicio](https://github.com/Santiago-Ospina-Gonzalez/microservicioCurso) - Descripción breve del microservicio.
+- [Proyecto](https://github.com/Santiago-Ospina-Gonzalez/proyecto)
+- [Microservicio](https://github.com/Santiago-Ospina-Gonzalez/microservicioCurso)
 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiago-Ospina-Gonzalez&show_icons=true&theme=radical&count_private=true)
