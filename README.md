@@ -10,7 +10,6 @@ Soy estudiante de 3er año de Ingeniería de Sistemas en Colombia. Me apasiona l
 - **C++**
 
 ## 📊 Lenguajes Más Utilizados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Ospina-Gonzalez&layout=compact)](https://github.com/Santiago-Ospina-Gonzalez/github-readme-stats)
 
 ## 🚀 Proyectos Destacados
 - [Proyecto](https://github.com/Santiago-Ospina-Gonzalez/proyecto) Privado de momento
