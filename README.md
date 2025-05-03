@@ -7,7 +7,7 @@
 ## 👨‍💻 Sobre Mí <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" alt="Colombia" width="20"/>
 
 * 🎓 Estudiante de Ingeniería de Sistemas
-* 🌱 Especializado en Java, Python y Arquitecturas Cloud
+* 🌱 Me gusta aprender
 * 📍 Basado en Colombia
 * 📧 [santyospina155@gmail.com](mailto:santyospina155@gmail.com)
 * 📱 [Instagram](https://www.instagram.com/santio_glz)
