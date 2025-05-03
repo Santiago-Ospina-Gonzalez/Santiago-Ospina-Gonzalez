@@ -71,7 +71,8 @@
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Ospina-Gonzalez&layout=compact&theme=radical&hide=html,css)](https://github.com/Santiago-Ospina-Gonzalez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Ospina-Gonzalez&layout=compact&theme=radical
+)](https://github.com/Santiago-Ospina-Gonzalez/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Santiago-Ospina-Gonzalez&show_icons=true&theme=radical&count_private=true)](https://github.com/Santiago-Ospina-Gonzalez/github-readme-stats)
 
